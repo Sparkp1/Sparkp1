@@ -1,168 +1,124 @@
-````markdown
-<div align="center">
+```console
+──────────────────────────────────────────────────────────────────────────────
 
-# Hi, I'm sparkpi
+sparkpi@github:~$ whoami
 
-### Engineer inspired by the retro.
+Name        : sparkpi
+Occupation  : Electrical & Electronics Engineering Student
+Focus       : AI • Computer Vision • Embedded Systems
+Philosophy  : Engineer inspired by the retro.
 
-*Electrical & Electronics Engineering • AI • Computer Vision • Embedded Systems*
+──────────────────────────────────────────────────────────────────────────────
+```
 
----
+# Hello.
 
-> Building modern intelligent systems with timeless engineering principles.
+I'm an Electrical & Electronics Engineering student passionate about building
+intelligent systems where software meets hardware.
 
-</div>
+My interests range from machine learning and computer vision to embedded
+electronics, AI hardware, and robotics.
 
-<br>
-
-## About
-
-I'm an Electrical & Electronics Engineering student with a passion for building systems that combine software, electronics, and artificial intelligence.
-
-My interests span computer vision, machine learning, embedded systems, and AI hardware. Whether it's training a CycleGAN, programming a microcontroller, or designing hardware that reacts to the real world, I enjoy engineering solutions that are practical, elegant, and thoughtfully designed.
-
-I believe good engineering ages well.
+I enjoy engineering solutions that are practical, elegant, and built to last.
 
 ---
 
-## Current Focus
+## ls projects/
 
 ```text
-Machine Learning
+📁 table-tennis-trainer/
+   ├── OpenCV
+   ├── MediaPipe
+   ├── Arduino
+   └── Real-time player tracking
+
+📁 synthetic-winter-cyclegan/
+   ├── Deep Learning
+   ├── CycleGAN
+   └── Image-to-image translation
+
+📁 audio-pattern-detection/
+   ├── Machine Learning
+   └── Audio Classification
+
+📁 python-folder-organizer/
+
+📁 python-quiz-app/
+
+📁 8051-tic-tac-toe/
+
+📁 sap-project/
+```
+
+---
+
+## cat interests.txt
+
+```
+Artificial Intelligence
+
 Computer Vision
+
+Machine Learning
+
 Embedded Systems
+
 Python
+
+Robotics
+
 AI Hardware
+
 Neuromorphic Computing
-````
+```
 
 ---
 
-## Featured Projects
+## grep "toolkit"
 
-### Table Tennis Training Machine
+```yaml
+Languages:
+    Python
 
-Real-time player tracking system using OpenCV and MediaPipe with Arduino-controlled aiming.
+Computer Vision:
+    OpenCV
+    MediaPipe
 
-**Highlights**
+Machine Learning:
+    TensorFlow
 
-* Computer Vision
-* Real-time tracking
-* Embedded motor control
-* Human pose estimation
-* Hardware + Software integration
+Embedded:
+    Arduino
+    ESP8266
+    8051
 
----
-
-### Synthetic Winter (CycleGAN)
-
-Image-to-image translation model capable of transforming ordinary landscapes into realistic winter environments.
-
-**Topics**
-
-CycleGAN • Deep Learning • Computer Vision
-
----
-
-### Audio Pattern Detection
-
-Machine learning pipeline for recognizing and classifying audio patterns through feature extraction and signal analysis.
+Engineering:
+    MATLAB
+    LTspice
+    Git
+```
 
 ---
 
-### SAP
+## git status
 
-Software engineering project exploring enterprise system workflows and business process implementation.
+```diff
++ Learning Computer Vision
 
----
++ Building AI-powered embedded systems
 
-### 8051 Tic-Tac-Toe
++ Exploring Neuromorphic Computing
 
-Classic Tic-Tac-Toe implemented on an 8051 microcontroller.
-
-Sometimes old hardware teaches the best lessons.
-
----
-
-### Python Quiz App
-
-Interactive desktop quiz application written in Python.
++ Improving Machine Learning skills
+```
 
 ---
 
-### Python Folder Organizer
-
-Utility for automatically sorting files into organized directory structures.
-
----
-
-## Toolbox
-
-### Languages
-
-Python
-
-### AI
-
-Machine Learning
-
-Computer Vision
-
-OpenCV
-
-MediaPipe
-
-TensorFlow
-
-### Embedded
-
-Arduino
-
-ESP8266
-
-8051
-
-### Engineering
-
-MATLAB
-
-LTspice
-
-Git
-
-GitHub
-
-VS Code
-
----
-
-## Philosophy
-
-Technology changes.
-
-Good engineering doesn't.
-
-I enjoy studying both modern AI systems and classic engineering designs because many of yesterday's ideas remain surprisingly relevant today.
-
-From vintage microprocessors to modern neural networks, I'm fascinated by how elegant design stands the test of time.
-
----
-
-## Currently Learning
-
-* Deep Learning
-* Computer Vision
-* AI Hardware
-* Neuromorphic Engineering
-* VLSI Design
-
----
-
-## GitHub
+## github stats
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&hide_border=true&show_icons=true&rank_icon=github"/>
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true"/>
 
@@ -170,20 +126,21 @@ From vintage microprocessors to modern neural networks, I'm fascinated by how el
 
 ---
 
-## Open to
+## echo "$PHILOSOPHY"
 
-* Research collaborations
-* Open-source contributions
-* Machine Learning projects
-* Computer Vision projects
-* Embedded Systems
-* Robotics
+> Technology evolves.
+
+> Good engineering endures.
+
+I enjoy studying both modern AI systems and classic engineering because
+many timeless ideas continue to inspire today's innovations.
 
 ---
 
-<div align="center">
+```console
+sparkpi@github:~$ exit
 
-*"The best technology respects the engineering that came before it."*
+Session terminated.
 
-</div>
+Thanks for stopping by.
 ```
