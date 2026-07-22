@@ -10,7 +10,7 @@
 BOOTING PROFILE...
 
 Loading BIOS................................OK
-Loading Engineering Core....................OK
+Loading Passion.............................OK
 Loading Curiosity...........................OK
 
 System Status : ONLINE
