@@ -8,6 +8,7 @@
 
 ```console
 BOOTING PROFILE...
+USERNAME: ZAEED
 
 Loading BIOS................................OK
 Loading Passion.............................OK
@@ -15,10 +16,6 @@ Loading Curiosity...........................OK
 
 System Status : ONLINE
 ```
-
-# Hello. I'm Zaeed
-
-*Engineer inspired by the retro*
 
 ---
 
