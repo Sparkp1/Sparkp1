@@ -18,7 +18,7 @@ System Status : ONLINE
 
 # Hello. I'm Zaeed
 
-Engineer inspired by the retro
+*Engineer inspired by the retro*
 
 ---
 
