@@ -27,7 +27,7 @@ System Status : ONLINE
 | **[Audio Pattern Detection](https://github.com/Sparkp1/audio_pattern_detection)** | Machine learning project for recognizing and classifying audio patterns from recorded signals. | Python, Machine Learning |
 | **[Python Quiz App](https://github.com/yourusername/Python-Quiz-App)** | Interactive desktop quiz application with score tracking. | Python |
 | **[Table Tennis Training Machine](https://github.com/Sparkp1/ping-pong-launcher)** | Real-time player tracking and automated aiming system using computer vision and embedded control. | Python, OpenCV, MediaPipe, Arduino |
-| **[SAP](https://github.com/yourusername/SAP)** | Simple As Possible Computer. | Proteus |
+| **[SAP](https://github.com/Sparkp1/SAP-1_6bit)** | Simple As Possible Computer. | Proteus |
 | **[8051 Tic-Tac-Toe](https://github.com/Sparkp1/8051-tictactoe)** | Tic-Tac-Toe game implemented on an 8051 microcontroller. | 8051 Assembly, Proteus |
 
 
